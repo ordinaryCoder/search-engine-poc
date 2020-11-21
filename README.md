@@ -1,3 +1,8 @@
+Project: search-engine-poc
+Description : POC for Search Engine which provides wikipedia results
+
+This Project Is created using Reactjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
